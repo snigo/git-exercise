@@ -1,1 +1,1 @@
-console.log('logged out');
+console.log('Logged out');
